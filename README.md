@@ -1,6 +1,7 @@
 Development of Conditioning System for Sensor Technology and Data Acquisition Using LabVIEW
 
 ------------------ REPORT 1 ------------------ 
+
 In this practice, three temperature sensors (LM25, MCP9701, type K thermocouple) were connected to a 
 National Instruments USB-6008 module, using LabVIEW software to measure temperature in different 
 environments such as parts of the human body, the ambient environment, and a heat gun. The sensors were 
@@ -11,7 +12,9 @@ temperature values, make a proper connection of the sensors to the acquisition s
 the signals from the software to achieve reliable results.
 
 
+
 ------------------ REPORT 2 ------------------ 
+
 This laboratory report analyzes the behavior of electrical current in direct current (DC) and alternating 
 current (AC) circuits as resistance varies, using devices such as the Variac, USB NI 6008 module, ACS712, 
 rheostat, and power supply, controlled through LabVIEW. 
@@ -21,7 +24,9 @@ visualizing, through experimental data, how current varies when modifying resist
 correctly setting up the instrumentation for each system, managed from LabVIEW.
 
 
+
 ------------------ REPORT 3 ------------------ 
+
 This report focuses on the analysis of the FC2231-25 load cell, a high-performance sensor used to 
 precisely measure mechanical forces and stresses, essential in various industrial and scientific applications. 
 The load cell converts mechanical deformations into proportional electrical signals, based on the variation 
@@ -31,7 +36,9 @@ the load cell by applying known loads, and analyze the results to identify facto
 in force and load measurement.
 
 
+
 ------------------ REPORT 4 ------------------ 
+
 In this laboratory practice, the goal is to develop a distance measurement system based on ultrasonic technology, 
 using the SRF04 sensor to emit and receive ultrasonic waves, allowing the determination of the distance between 
 the sensor and an object. This system is crucial for applications in robotics and industrial monitoring. To 
@@ -41,7 +48,9 @@ SRF04 sensor to ensure proper emission and reception of ultrasonic waves, and pr
 for real-time data acquisition and processing, ensuring accurate visualization of the results.
 
 
+
 ------------------ REPORT 5 ------------------ 
+
 This practice aims to implement a data acquisition system to capture and record in real-time the pressure 
 changes induced by a compressor. The MPX5100 pressure sensor is used, connected to an analog port of the 
 USB NI 6008 module, which serves as the interface between the sensor and LabVIEW software. LabVIEW is 
@@ -51,7 +60,9 @@ accurate communication between them to measure pressure changes, and conducting 
 with different compression levels, ensuring accuracy and repeatability of real-time measurements.
 
 
+
 ------------------ REPORT 6 ------------------ 
+
 In this experiment, the voltage response of the FS1012-1100-NG sensor was measured and analyzed when 
 connected to an air compressor. This sensor is capable of measuring pressure in an environment and 
 generating a voltage output proportional to the applied pressure. The sensor was powered with a 5V 
@@ -63,7 +74,9 @@ an appropriate calibration equation for the sensor, considering its non-linear n
 
 
 
+
 ------------------ REPORT 7 ------------------ 
+
 This report presents an experimental study on the characterization and control of a direct current (DC) 
 motor using the National Instruments USB-6008 Data Acquisition Module and the LabVIEW platform. In 
 the first part of the experiment, the DC motor was characterized using an H-bridge and a potentiometer 
@@ -74,7 +87,9 @@ techniques, analyzing its response to control signals, and measuring its speed a
 to improve future control strategies.
 
 
+
 ------------------ REPORT 8 ------------------ 
+
 Measuring and analyzing acceleration is crucial for understanding and characterizing the movements of 
 objects in various fields, such as physics, engineering, navigation, and robotics. In this laboratory 
 practice, acceleration was studied using the MMA7260 sensor, a three-axis accelerometer, along with the 
@@ -86,7 +101,9 @@ and identifying factors that affect the measurements.
 
 
 
+
 ------------------ REPORT 9 ------------------ 
+
 This project focused on developing a comprehensive system for wireless temperature measurement using 
 the LM35 sensor and XBee modules. The XBee module parameters were configured using XCTU, and the program 
 was developed in LabVIEW. The primary objective was to implement an efficient system that leveraged the 
@@ -96,7 +113,9 @@ LabVIEW facilitated rapid prototyping and the creation of a user interface for r
 and analysis of temperature readings.
 
 
+
 ------------------ REPORT 10 ------------------ 
+
 This practice focuses on the advanced configuration of Modbus Ethernet communication between two computers 
 using LabVIEW. The goal is to establish a connection between a master and a slave device, addressing IP 
 address configuration, Modbus device modeling, variable instrumentation, and address range management. 
